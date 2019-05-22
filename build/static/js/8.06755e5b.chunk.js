@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{627:function(e,n,t){"use strict";t.r(n);var a=t(77),c=t(78),r=t(81),u=t(79),i=t(80),o=t(1),s=t.n(o),b=function(e){function n(){return Object(a.a)(this,n),Object(r.a)(this,Object(u.a)(n).apply(this,arguments))}return Object(i.a)(n,e),Object(c.a)(n,[{key:"render",value:function(){return s.a.createElement("div",null,"Dashboard")}}]),n}(o.Component);n.default=b}}]);
+//# sourceMappingURL=8.06755e5b.chunk.js.map
